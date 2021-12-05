@@ -7,6 +7,6 @@ https://www.psx-place.com/resources/playstation-2-mechacon-adjustment-program-pm
 
 Remarks:
 - Binary PMAP.exe executable can be found in the /bin directory.
-- This tool does not work with SCPH-5/7/9xxx models (only machines up to V8, SCPH-1/3xxx).
+- This tool does not work with SCPH-5/7/9xxxx models (only machines up to V8, SCPH-1/3xxxx).
 
 My video on Peertube (French) : https://video.latavernedejohnjohn.fr/w/qZMZRwVvck9uxn2DABmNKj
